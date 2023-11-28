@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dhuttu/static/css/main.57f1dcdc.css",
+    "main.js": "/dhuttu/static/js/main.67a7e53b.js",
+    "index.html": "/dhuttu/index.html",
+    "main.57f1dcdc.css.map": "/dhuttu/static/css/main.57f1dcdc.css.map",
+    "main.67a7e53b.js.map": "/dhuttu/static/js/main.67a7e53b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57f1dcdc.css",
+    "static/js/main.67a7e53b.js"
+  ]
+}
